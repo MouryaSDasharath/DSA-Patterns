@@ -1,6 +1,6 @@
 package TwoPointers;
 
-public class Prob02_segregate0and1 {
+public class Prob_02_segregate0and1 {
 	
 	public static void segregate0and1(int[] arr) {
         int left=0,right=arr.length-1;
