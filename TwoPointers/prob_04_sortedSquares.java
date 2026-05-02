@@ -1,6 +1,6 @@
 package TwoPointers;
 
-public class prob_04_sortedSquares {
+public class Prob_04_sortedSquares {
 
 	public static  int[] sortedSquares(int[] nums) {
         int n=nums.length;
