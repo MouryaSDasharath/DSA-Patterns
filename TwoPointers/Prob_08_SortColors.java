@@ -24,7 +24,7 @@ public class Prob_08_SortColors {
 	    }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int arr[]= {2,1,2,2,1,0,0,0,2,2,1};
+		int arr[]= {2,1,2,2,1,0,0,0,2,2,1,1};
 		sortColors(arr);
 		for(int i=0;i<arr.length;i++) {
 			System.out.print(arr[i]+" ");
